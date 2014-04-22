@@ -1,6 +1,6 @@
 {
   "name": "async-forward",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "forward methods to asynchronously acquired objects",
   "main": "forward.js",
   "dependencies": {},
